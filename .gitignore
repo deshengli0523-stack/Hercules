@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.zip
+*.asar
+node_modules/
+app/
+src/
+tools/
+tests/
+analysis/
